@@ -14,3 +14,4 @@ add line4
 My stupid boss still prefers SVN.
 
 create a new branch dev is quick.
+creating a new branch is quick and feature1.
